@@ -26,21 +26,22 @@
 
 ## ✨ Featured Projects
 
-### 🎨 Portfolio Website
-![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
-
 ### 🛍️ E-commerce Layout
-![E-commerce Screenshot](https://via.placeholder.com/600x300.png?text=E-commerce+Layout)
+Coffee commercial website
+(![image](https://github.com/user-attachments/assets/bd5e03d2-5233-41c2-8878-7640c2758cb4)
+)
 
-### 📱 Responsive Landing Pages
-![Landing Page Screenshot](https://via.placeholder.com/600x300.png?text=Responsive+Landing+Page)
+ Honey commercial website
+(![image](https://github.com/user-attachments/assets/c0690507-406f-4134-b32c-b17b72c3395a)
+)
+
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: your.email@example.com *(غيّريها لإيميلك لو بتحبي)*
-- 💼 LinkedIn: [linkedin.com/in/asmaa](#) *(اختياري)*
+- 📧 Email: asmaa.adass.a@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/asmaa](#) 
 - 🧠 YouTube: [@asmaa-coding](https://www.youtube.com/@asmaa-coding)
 
 ---

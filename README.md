@@ -28,12 +28,15 @@
 
 ### 🛍️ E-commerce Layout
 ☕ Coffee Shop Website [https://codingmento.github.io/coffee-website/]
+
 ![image](https://github.com/user-attachments/assets/bd5e03d2-5233-41c2-8878-7640c2758cb4)
 
 
- 🍯 Honey Commercial Website
-(![image](https://github.com/user-attachments/assets/c0690507-406f-4134-b32c-b17b72c3395a)
-)
+
+ 🍯 Honey Commercial Website[https://codingmento.github.io/honey-website/]
+ 
+![image](https://github.com/user-attachments/assets/c0690507-406f-4134-b32c-b17b72c3395a)
+
 
 
 ---
